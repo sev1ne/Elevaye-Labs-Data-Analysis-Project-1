@@ -1,1 +1,1 @@
-# Elevaye-Labs-Data-Analysis-Project-1
+![Project Image](project_1.png)
